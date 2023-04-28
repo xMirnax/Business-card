@@ -1,0 +1,27 @@
+body {
+    margin: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.avatar {
+    width: 150px;
+}
+
+.card:hover
+{
+     border-bottom: 6px solid #e5e5e5;
+     color: #e5e5e5;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #2e2b2c;
+    color: #fca311;
+    border-bottom: 6px solid #fca311;
+        
+}
